@@ -1,2 +1,3 @@
 # GitHubApp
-Command Line Interface for GitHub Application information
+
+A command line tool to impersonate GitHub Application
