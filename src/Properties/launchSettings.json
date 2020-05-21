@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "Empty": {
+      "commandName": "Project"
+    },
+    "Id and Pem": {
+      "commandName": "Project",
+      "commandLineArgs": "-a=62489 -p=P:\\GitHub-Bot\\label-synchronizer.2020-05-11.private-key.pem"
+    },
+    "marketplace": {
+      "commandName": "Project",
+      "commandLineArgs": "-a=62489 -p=P:\\GitHub-Bot\\label-synchronizer.2020-05-11.private-key.pem marketplace"
+    },
+    "plans": {
+      "commandName": "Project",
+      "commandLineArgs": "-a=62489 -p=P:\\GitHub-Bot\\label-synchronizer.2020-05-11.private-key.pem marketplace plans"
+    }
+  }
+}
